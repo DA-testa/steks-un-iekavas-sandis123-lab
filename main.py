@@ -42,7 +42,6 @@ def main():
     print("Success")
     return 0
 
-    # Printing answer, write your code here
 
 
 if __name__ == "__main__":
